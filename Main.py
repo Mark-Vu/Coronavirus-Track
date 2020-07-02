@@ -10,9 +10,9 @@ try:
 except ImportError:
     print("Please download all the libraries")
     
-API_KEY = "thuL_Tve6Hfg"
-PROJECT_TOKEN = "tQLoXm69-x9T"
-RUN_TOKEN = "t-yV3FuT3TSD"
+API_KEY = "YOUR API KEY"
+PROJECT_TOKEN = "YOUR PROJECT TOKEN"
+RUN_TOKEN = "YOUR RUN TOKEN"
 
 pygame.init()
 
